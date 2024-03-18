@@ -1,0 +1,19 @@
+h1{
+    text-shadow: 3px 3px 3px lightcoral;
+    text-shadow: 3px 3px 3px lightcoral, 3px 3px 3px red;
+
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    color: red;
+    border: 2px solid black;
+    /* float: */
+    box-shadow: 4px 4px 10px greenyellow, -6px -6px 6px goldenrod;
+    /* spread radius */
+    box-shadow: 4px 4px 10px 2px greenyellow; 
+
+
+    
+}
